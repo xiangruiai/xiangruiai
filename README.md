@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.xiangruiai.com"><img src="https://img.shields.io/badge/个人主页-xiangruiai.com-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Website"></a>
-  <a href="https://vantasma.feishu.cn/wiki/space/7574356946532925441"><img src="https://img.shields.io/badge/开源知识库-飞书%20Wiki%20·%20311+篇-00D6B9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Knowledge Base"></a>
+  <a href="https://vantasma.feishu.cn/wiki/space/7574356946532925441"><img src="https://img.shields.io/badge/开源知识库-311%2B%20篇-00D6B9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Knowledge Base"></a>
   <a href="https://vantasma.feishu.cn/wiki/A1CNwAZQSisdSMkuwp1c3r1ontf"><img src="https://img.shields.io/badge/57课-多维表格小白课-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Course"></a>
   <a href="mailto:li@xiangruiai.com"><img src="https://img.shields.io/badge/联系-li@xiangruiai.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
@@ -26,7 +26,7 @@
 
 ### 🛠️ 技术栈 · Stack
 
-![Feishu Bitable](https://img.shields.io/badge/飞书多维表格-00D6B9?style=flat-square&logo=feishu&logoColor=white)
+![Feishu Bitable](https://img.shields.io/badge/飞书多维表格-00D6B9?style=flat-square&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI_Agent-6E56CF?style=flat-square&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,7 +34,6 @@
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n·RPA-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### 📦 精选开源 · Featured Projects
 
@@ -50,15 +49,13 @@
 ### 📊 社区数据 · By the Numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/知识库访问-6.5万+_人-2563EB?style=flat-square" alt="visitors">
-  <img src="https://img.shields.io/badge/累计访问-25万+_次-2563EB?style=flat-square" alt="pv">
-  <img src="https://img.shields.io/badge/知识库文档-311_篇-00A98F?style=flat-square" alt="docs">
-  <img src="https://img.shields.io/badge/公众号原创-230+_篇-EA4335?style=flat-square" alt="articles">
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Larkin0302&show_icons=true&hide_border=true&title_color=2563EB&icon_color=00A98F&include_all_commits=true" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larkin0302&layout=compact&hide_border=true&title_color=2563EB" alt="top langs">
+  <img src="https://img.shields.io/badge/知识库访问-6.5万%2B%20人-2563EB?style=flat-square" alt="visitors">
+  &nbsp;
+  <img src="https://img.shields.io/badge/累计访问-25万%2B%20次-2563EB?style=flat-square" alt="pv">
+  &nbsp;
+  <img src="https://img.shields.io/badge/知识库文档-311%20篇-00A98F?style=flat-square" alt="docs">
+  &nbsp;
+  <img src="https://img.shields.io/badge/公众号原创-230%2B%20篇-EA4335?style=flat-square" alt="articles">
 </p>
 
 ### 🔗 在哪里找到我们 · Where to find us
