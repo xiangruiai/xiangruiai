@@ -63,7 +63,8 @@
 | | |
 |---|---|
 | 🌐 个人主页 Homepage | https://www.xiangruiai.com （简体 / 繁體 / English） |
-| 📚 开源知识库（飞书 Wiki） | https://vantasma.feishu.cn/wiki/space/7574356946532925441 |
+| 🏠 社区主页（关于我们 · 模板中心 · 57 课） | https://vantasma.feishu.cn/wiki/MC1nwBft0izODokXe4acHKjZnsh |
+| 📚 开源知识库（飞书 Wiki · 311+ 篇） | https://vantasma.feishu.cn/wiki/space/7574356946532925441 |
 | 🎓 57 课 · 多维表格小白课 | https://vantasma.feishu.cn/wiki/A1CNwAZQSisdSMkuwp1c3r1ontf |
 | 💬 多维表格交流社区（飞书群） | [点击加入](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=3c8gcd32-517d-43a7-85a0-a20c24332959) |
 | 📰 公众号 · 李祥瑞 | 飞书多维表格实战 + AI 落地方法论 · 230+ 篇原创 |
