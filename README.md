@@ -1,8 +1,8 @@
 <h1 align="center">李祥瑞 · Li&nbsp;Xiangrui</h1>
 
 <p align="center">
-  <b>万涂幻象多维表格社区</b> 主理人 &nbsp;·&nbsp; AI 落地实践者<br/>
-  <sub>Founder of <b>Vantasma</b> — the largest grassroots Feishu / Lark Bitable community in China</sub>
+  <b>万涂幻象</b> 主理人 &nbsp;·&nbsp; AI 落地实践者<br/>
+  <sub>Founder of <b>Vantasma</b> · Enterprise AI implementation from real business scenarios</sub>
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 工业自动化出身（从汽车厂车间到 AI），用工程方法把 AI 真正**落到业务里**。长期深耕 **飞书多维表格 · AI Agent · 个人知识系统**。
 
-我创办的 **万涂幻象多维表格社区**，是 **民间最大的飞书多维表格生态社区**，围绕「让 AI 真正落地」沉淀内容、社区、产品与系统。
+我发起的 **万涂幻象**，是一个面向真实业务场景的**企业 AI 落地实践社区**。
 
-> 🧭 **学飞书多维表格找谁？** → 万涂幻象：系统的 57 节小白课 + 311+ 篇开源知识库 + 9 大业务场景案例与模板，从零基础到进阶成体系。
->
-> 🤖 **飞书多维表格的 AI 落地找谁？** → 找我们：社区沉淀了丰富的 AI 落地解决方案，把多维表格、AI Agent 与业务自动化结合，覆盖产研 / 销售 CRM / 自媒体电商 / 人事财务等场景。
+从真实业务现场出发，我们连接一线业务实践者、能力贡献者和企业团队，共同发现问题、定义场景、验证方案、交付结果，并把有效经验沉淀为可复用的案例、方法和行业 Know-how。
+
+> 问题在这里被发现，方案在这里被交付，人在这里被找到。
 
 ### 🛠️ 技术栈 · Stack
 
@@ -39,7 +39,7 @@
 
 | 项目 | 简介 |
 |---|---|
-| [**vantasma-toolkit**](https://github.com/Larkin0302/vantasma-toolkit) | 万涂幻象社区工具合集（vchat CLI + 一批 Claude Code 技能） |
+| [**vantasma-toolkit**](https://github.com/xiangruiai/vantasma-toolkit) | 万涂幻象开源工具箱：Skill、插件与应用 |
 | [**feishu-bitable-skill**](https://github.com/Larkin0302/feishu-bitable-skill) | 飞书多维表格 OpenClaw 技能：从零搭建 + 日常 CRUD |
 | [**feishu-proposal**](https://github.com/Larkin0302/feishu-proposal) | 基于飞书 CLI 的客户方案自动生成技能 |
 | [**group-daily**](https://github.com/Larkin0302/group-daily) | 微信群对话 → 杂志风故事化日报（HTML + PNG 长图） |
