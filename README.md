@@ -20,6 +20,13 @@
 
 我创立了 **北京万涂幻象科技有限公司**（2026 年 5 月 · 北京亦庄 · 国家信创园 WaytoAGI 模数 OPC 社区）。万涂幻象的理念，是为硅基智能构建长期连续性的系统基础：以自研的 **Agent 上下文与主体连续性技术**为底座，在上面跑着**企业 AI 落地**（定制开发 · FDE 深度陪跑 · 企业内训 · 项目制咨询）、**课程与培训**（企业 AI 实战工作坊 · 个人实战课程）、**品牌宣传**（公众号「祥瑞的上下文」）三条业务。技术不空转，每一次业务交付都是对底座的一次真实验证。
 
+**落地方法论**：
+
+- **企业 AI 落地的四次价值转化**：模型能力 → ① 可靠任务结果 → ② 端到端流程吞吐 → ③ 稳定组织采用 → ④ 经营结果。会用了，不等于用得起来——每一次转化都是专业工作。
+- **SOP 梳理工作法**：真实业务逻辑由客户表达（约 60%–70%），我们梳理成一条主线 + 分支例外的清晰 SOP，AI 补全剩下的 30%–40%——以专利充分公开为判断标准：同等学历的人拿到 SOP 能复现出一致的结果，交付差异上下不超过 10%。
+
+> 📺 央视财经《生财有道》专访《一人公司 解锁年轻人AI新财富》，2026 年 8 月在 CCTV-2 播出——[点击观看节目](https://tv.cctv.com/2026/08/06/VIDEMfoRPIr9La3YtsfgTvJa260806.shtml)。
+
 > 问题在这里被发现，方案在这里被交付，人在这里被找到。
 
 ### 🛠️ 技术栈 · Stack
@@ -48,9 +55,11 @@
 ### 📊 社区数据 · By the Numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/知识库访问-6.5万%2B%20人-2563EB?style=flat-square" alt="visitors">
+  <img src="https://img.shields.io/badge/知识库用户-10万%2B%20人-2563EB?style=flat-square" alt="kb users">
   &nbsp;
-  <img src="https://img.shields.io/badge/累计访问-25万%2B%20次-2563EB?style=flat-square" alt="pv">
+  <img src="https://img.shields.io/badge/服务企业客户-20%20家-2563EB?style=flat-square" alt="enterprise clients">
+  &nbsp;
+  <img src="https://img.shields.io/badge/飞书社群-3300%2B%20人-00D6B9?style=flat-square" alt="feishu community">
   &nbsp;
   <img src="https://img.shields.io/badge/知识库文档-311%20篇-00A98F?style=flat-square" alt="docs">
   &nbsp;
