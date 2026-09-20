@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>万涂幻象</b> 主理人 &nbsp;·&nbsp; AI 落地实践者<br/>
-  <sub>Founder of <b>Vantasma</b> · Enterprise AI implementation from real business scenarios</sub>
+  <sub>Founder of <b>Vantasma</b> · Building long-term context &amp; identity continuity systems for AI agents</sub>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 👋 关于我 · About
 
-工业自动化出身（从汽车厂车间到 AI），用工程方法把 AI 真正**落到业务里**。长期深耕 **飞书多维表格 · AI Agent · 个人知识系统**。
+工业自动化出身（从汽车厂车间到 AI），用工程方法把 AI 真正**落到业务里**。长期深耕 **Agent 上下文与主体连续性 · 企业 AI 落地**。
 
 我创立了 **北京万涂幻象科技有限公司**（2026 年 5 月 · 北京亦庄 · 国家信创园 WaytoAGI 模数 OPC 社区）。万涂幻象的理念，是为硅基智能构建长期连续性的系统基础：以自研的 **Agent 上下文与主体连续性技术**为底座，在上面跑着**企业 AI 落地**（定制开发 · FDE 深度陪跑 · 企业内训 · 项目制咨询）、**课程与培训**（企业 AI 实战工作坊 · 个人实战课程）、**品牌宣传**（公众号「祥瑞的上下文」）三条业务。技术不空转，每一次业务交付都是对底座的一次真实验证。
 
@@ -37,19 +37,20 @@
 
 | 项目 | 简介 |
 |---|---|
-| [**vantasma-toolkit**](https://github.com/xiangruiai/vantasma-toolkit) | 万涂幻象开源工具箱：Skill、插件与应用 |
-| [**feishu-bitable-skill**](https://github.com/Larkin0302/feishu-bitable-skill) | 飞书多维表格 OpenClaw 技能：从零搭建 + 日常 CRUD |
-| [**feishu-proposal**](https://github.com/Larkin0302/feishu-proposal) | 基于飞书 CLI 的客户方案自动生成技能 |
-| [**group-daily**](https://github.com/Larkin0302/group-daily) | 微信群对话 → 杂志风故事化日报（HTML + PNG 长图） |
-| [**group-daily-newspaper**](https://github.com/Larkin0302/group-daily-newspaper) | 群日报·人民日报式 A3 报纸版，可印刷彩打 |
-| [**mp-data**](https://github.com/Larkin0302/mp-data) | 微信公众号全量数据抓取与可视化分析 |
+| [**vantasma-toolkit**](https://github.com/xiangruiai/vantasma-toolkit) | 万涂幻象开源工具箱：CLI、Skill、插件与应用 |
+| [**vchat**](https://github.com/xiangruiai/vantasma-toolkit/tree/main/cli/vchat) | 微信本地数据查询 / 解密 / 导出 CLI · Agent 一句话安装 |
+| [**feishu-bitable-skill**](https://github.com/xiangruiai/vantasma-toolkit/tree/main/skills/飞书办公/feishu-bitable-skill) | 飞书多维表格 OpenClaw 技能：从零搭建 + 日常 CRUD |
+| [**feishu-proposal**](https://github.com/xiangruiai/vantasma-toolkit/tree/main/skills/飞书办公/feishu-proposal) | 基于飞书 CLI 的客户方案自动生成技能 |
+| [**group-daily**](https://github.com/xiangruiai/vantasma-toolkit/tree/main/skills/内容设计/group-daily) | 微信群对话 → 杂志风故事化日报（HTML + PNG 长图） |
+| [**group-daily-newspaper**](https://github.com/xiangruiai/vantasma-toolkit/tree/main/skills/内容设计/group-daily-newspaper) | 群日报·人民日报式 A3 报纸版，可印刷彩打 |
+| [**mp-data**](https://github.com/xiangruiai/vantasma-toolkit/tree/main/skills/数据抓取/mp-data) | 微信公众号全量数据抓取与可视化分析 |
 
 ### 📊 社区数据 · By the Numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/知识库用户-10万%2B%20人-2563EB?style=flat-square" alt="kb users">
+  <img src="https://img.shields.io/badge/知识库访问-6.5万%2B%20人-2563EB?style=flat-square" alt="visitors">
   &nbsp;
-  <img src="https://img.shields.io/badge/飞书社群-3300%2B%20人-00D6B9?style=flat-square" alt="feishu community">
+  <img src="https://img.shields.io/badge/累计访问-25万%2B%20次-2563EB?style=flat-square" alt="pv">
   &nbsp;
   <img src="https://img.shields.io/badge/知识库文档-311%20篇-00A98F?style=flat-square" alt="docs">
   &nbsp;
@@ -64,7 +65,7 @@
 | 🏢 公司业务最新介绍（业务全景 · 产品与技术 · 合作方式） | [https://waytoagi.feishu.cn/wiki/EAJkw9JcviTt3UkjoyXcKkLzn1W](https://waytoagi.feishu.cn/wiki/EAJkw9JcviTt3UkjoyXcKkLzn1W) |
 | 📚 开源知识库（飞书 Wiki · 311+ 篇） | https://vantasma.feishu.cn/wiki/space/7574356946532925441 |
 | 🎓 57 课 · 多维表格小白课 | https://vantasma.feishu.cn/wiki/A1CNwAZQSisdSMkuwp1c3r1ontf |
-| 💬 多维表格交流社区（飞书群） | [点击加入](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=3c8gcd32-517d-43a7-85a0-a20c24332959) |
-| 📰 公众号 · 李祥瑞 | 飞书多维表格实战 + AI 落地方法论 · 230+ 篇原创 |
+| 💬 万涂幻象交流社区（飞书群 · 3300+ 同行） | [点击加入](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=522h9ff3-5aeb-4a82-9e5d-9b08c6441bb5) |
+| 📰 公众号 · 祥瑞的上下文 | AI 落地实战与方法论 · 230+ 篇原创 |
 
 <p align="center"><sub>📍 北京亦庄 · 国家信创园 WaytoAGI 模数 OPC 社区 · 北京万涂幻象科技有限公司 · 成立于 2026 年 5 月</sub></p>
