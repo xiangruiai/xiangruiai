@@ -47,9 +47,9 @@
 ### 📊 社区数据 · By the Numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/知识库访问-6.5万%2B%20人-2563EB?style=flat-square" alt="visitors">
+  <img src="https://img.shields.io/badge/知识库用户-10万%2B%20人-2563EB?style=flat-square" alt="kb users">
   &nbsp;
-  <img src="https://img.shields.io/badge/累计访问-25万%2B%20次-2563EB?style=flat-square" alt="pv">
+  <img src="https://img.shields.io/badge/飞书社群-3300%2B%20人-00D6B9?style=flat-square" alt="feishu community">
   &nbsp;
   <img src="https://img.shields.io/badge/知识库文档-311%20篇-00A98F?style=flat-square" alt="docs">
   &nbsp;
